@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "649655952166",
+    "project_id": "pingme-a09b0",
+    "storage_bucket": "pingme-a09b0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649655952166:android:56d0a9550f10cd3a8dd7e7",
+        "android_client_info": {
+          "package_name": "com.example.pingme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSC_cjDArtUUDKl4jnkJ0sjqWQ9AF0IQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
